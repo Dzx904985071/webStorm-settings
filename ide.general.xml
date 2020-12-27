@@ -2,7 +2,7 @@
   <component name="GeneralSettings">
     <option name="autoSaveIfInactive" value="true" />
     <option name="defaultProjectDirectory" value="E:\work\gitLab" />
-    <option name="inactiveTimeout" value="2" />
+    <option name="inactiveTimeout" value="1" />
     <option name="reopenLastProject" value="false" />
   </component>
   <component name="Registry">
