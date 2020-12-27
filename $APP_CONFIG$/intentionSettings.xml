@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Language injection/注入语言或引用" />
+    <ignoreAction name="JavaScript/声明/拆分声明和初始化" />
+  </component>
+</application>

@@ -1,0 +1,21 @@
+<keymap version="1" name="Visual Studio复制" parent="Visual Studio">
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="w" />
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="pause" />
+  </action>
+  <action id="Graph.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+</keymap>

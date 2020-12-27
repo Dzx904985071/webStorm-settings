@@ -1,0 +1,46 @@
+<profile version="1.0">
+  <option name="myName" value="Default" />
+  <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="myValues">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="key" />
+        </list>
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
+  <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="myValues">
+      <value>
+        <list size="19">
+          <item index="0" class="java.lang.String" itemvalue="nobr" />
+          <item index="1" class="java.lang.String" itemvalue="noembed" />
+          <item index="2" class="java.lang.String" itemvalue="comment" />
+          <item index="3" class="java.lang.String" itemvalue="noscript" />
+          <item index="4" class="java.lang.String" itemvalue="embed" />
+          <item index="5" class="java.lang.String" itemvalue="script" />
+          <item index="6" class="java.lang.String" itemvalue="transition" />
+          <item index="7" class="java.lang.String" itemvalue="mes-search" />
+          <item index="8" class="java.lang.String" itemvalue="mes-input" />
+          <item index="9" class="java.lang.String" itemvalue="mes-select" />
+          <item index="10" class="java.lang.String" itemvalue="mes-button" />
+          <item index="11" class="java.lang.String" itemvalue="mes-datepickerrange" />
+          <item index="12" class="java.lang.String" itemvalue="mes-dialog" />
+          <item index="13" class="java.lang.String" itemvalue="mes-table" />
+          <item index="14" class="java.lang.String" itemvalue="mes-datepicker" />
+          <item index="15" class="java.lang.String" itemvalue="mes-daterangepicker" />
+          <item index="16" class="java.lang.String" itemvalue="mes-tabs" />
+          <item index="17" class="java.lang.String" itemvalue="mes-tab" />
+          <item index="18" class="java.lang.String" itemvalue="mes-box" />
+        </list>
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
+  <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+    <option name="processCode" value="true" />
+    <option name="processLiterals" value="true" />
+    <option name="processComments" value="true" />
+  </inspection_tool>
+</profile>

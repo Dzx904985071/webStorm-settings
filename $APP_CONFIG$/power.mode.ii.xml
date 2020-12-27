@@ -1,0 +1,18 @@
+<application>
+  <component name="PowerModeII">
+    <option name="customBamImageFolder" value="D:\WebStorm 2020.3\jbr\bin" />
+    <option name="customFlameImageFolder" value="D:\WebStorm 2020.3\jbr\bin" />
+    <option name="flamesEnabled" value="false" />
+    <option name="gravityFactor" value="-1.0" />
+    <option name="hotkeyHeatup" value="false" />
+    <option name="isBamEnabled" value="false" />
+    <option name="isCaretAction" value="true" />
+    <option name="isPowerIndicatorEnabled" value="false" />
+    <option name="isSingleBamImagePerEvent" value="true" />
+    <option name="soundsFolder" value="D:\WebStorm 2020.3\jbr\bin" />
+    <option name="sparkCount" value="20" />
+    <option name="sparkLife" value="1888" />
+    <option name="sparkSize" value="4" />
+    <option name="sparkVelocityFactor" value="1.0" />
+  </component>
+</application>
