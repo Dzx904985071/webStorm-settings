@@ -13,7 +13,6 @@
       <map>
         <entry key="CodeStream.StatusBar" value="false" />
         <entry key="Memory" value="true" />
-        <entry key="git" value="false" />
         <entry key="mtStatusBar" value="false" />
       </map>
     </option>
