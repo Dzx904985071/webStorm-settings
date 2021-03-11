@@ -2,6 +2,9 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_UNIFORM_INDENT" value="true" />
   </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+  </JSCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
@@ -13,8 +16,17 @@
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="Vue">
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
