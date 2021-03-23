@@ -1,5 +1,6 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="HtmlDeprecatedAttribute" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
@@ -13,7 +14,7 @@
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="29">
+        <list size="30">
           <item index="0" class="java.lang.String" itemvalue="nobr" />
           <item index="1" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
@@ -43,6 +44,7 @@
           <item index="26" class="java.lang.String" itemvalue="mes-area" />
           <item index="27" class="java.lang.String" itemvalue="el-tree" />
           <item index="28" class="java.lang.String" itemvalue="el-dialog" />
+          <item index="29" class="java.lang.String" itemvalue="mes-switch" />
         </list>
       </value>
     </option>
