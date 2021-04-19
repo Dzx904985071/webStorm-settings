@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="394" />
+    <option name="newTranslationDialogWidth" value="754" />
+    <option name="newTranslationDialogX" value="596" />
+    <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="时间" />
+      <item value="危险" />
+      <item value="极限" />
+      <item value="getbuttoncss() {&#10;      const para = {&#10;        data: {&#10;          menuID: '',&#10;          menuBM: localStorage.getItem('sysResourcesBM')&#10;        },&#10;        pageNum: 1,&#10;        pageSize: 25&#10;      }&#10;      this.api.SM0312getTable(para).then(res =&gt; {&#10;        if (res.code === 0) {&#10;          this.buttoncss = this.commonJs.buttonCssSet(res.data.records)&#10;        }&#10;      })&#10;    }," />
       <item value="button" />
       <item value="cell" />
       <item value="edit" />
