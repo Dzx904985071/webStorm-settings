@@ -1,0 +1,26 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="button" />
+      <item value="cell" />
+      <item value="edit" />
+    </histories>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1618811671246" />
+  </component>
+  <component name="Settings">
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="keepFormat" value="true" />
+    <option name="primaryFontFamily" value="Microsoft YaHei Light" />
+    <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
+    <option name="showExplanation" value="true" />
+    <option name="takeWordWhenDialogOpens" value="true" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
