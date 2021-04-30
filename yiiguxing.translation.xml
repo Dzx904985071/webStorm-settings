@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="394" />
-    <option name="newTranslationDialogWidth" value="754" />
-    <option name="newTranslationDialogX" value="596" />
-    <option name="newTranslationDialogY" value="383" />
+    <option name="newTranslationDialogWidth" value="750" />
+    <option name="newTranslationDialogX" value="842" />
+    <option name="newTranslationDialogY" value="491" />
     <histories>
+      <item value="撤回" />
+      <item value="添" />
+      <item value="提交" />
+      <item value="交" />
+      <item value="审批意见" />
       <item value="cursor" />
       <item value="物料" />
       <item value="时间" />
@@ -17,7 +22,7 @@
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619319807066" />
+    <option name="lastTrimTime" value="1619762200964" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
