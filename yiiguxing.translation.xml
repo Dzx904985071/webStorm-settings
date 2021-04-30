@@ -1,13 +1,26 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="394" />
-    <option name="newTranslationDialogWidth" value="750" />
-    <option name="newTranslationDialogX" value="842" />
-    <option name="newTranslationDialogY" value="491" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="295" />
+    <option name="newTranslationDialogWidth" value="744" />
+    <option name="newTranslationDialogX" value="872" />
+    <option name="newTranslationDialogY" value="654" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="初始化" />
       <item value="撤回" />
-      <item value="添" />
+      <item value="YH" />
       <item value="提交" />
+      <item value="refer" />
+      <item value="submit" />
+      <item value="committ" />
+      <item value="committee5" />
+      <item value="committee" />
+      <item value="commit" />
+      <item value="com" />
+      <item value="c" />
+      <item value="reset" />
+      <item value="添" />
       <item value="交" />
       <item value="审批意见" />
       <item value="cursor" />
