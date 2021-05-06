@@ -2,14 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="295" />
-    <option name="newTranslationDialogWidth" value="744" />
-    <option name="newTranslationDialogX" value="646" />
-    <option name="newTranslationDialogY" value="279" />
+    <option name="newTranslationDialogWidth" value="742" />
+    <option name="newTranslationDialogX" value="672" />
+    <option name="newTranslationDialogY" value="694" />
     <histories>
+      <item value="提交" />
       <item value="初始化" />
       <item value="撤回" />
       <item value="YH" />
-      <item value="提交" />
       <item value="refer" />
       <item value="submit" />
       <item value="committ" />
@@ -34,7 +34,7 @@
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619762200964" />
+    <option name="lastTrimTime" value="1620264934862" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
