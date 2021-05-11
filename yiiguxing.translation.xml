@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="694" />
     <histories>
+      <item value="current-page" />
       <item value="提交" />
       <item value="初始化" />
       <item value="撤回" />
@@ -34,7 +35,7 @@
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620264934862" />
+    <option name="lastTrimTime" value="1620697968987" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
