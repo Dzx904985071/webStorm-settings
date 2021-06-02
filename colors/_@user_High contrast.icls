@@ -3,7 +3,7 @@
     <property name="created">2021-06-02T15:04:43</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2021-06-02T16:00:14</property>
+    <property name="modified">2021-06-02T16:44:02</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -33,10 +33,10 @@
     <option name="FILESTATUS_addedOutside" value="62cc47" />
     <option name="FILESTATUS_changelistConflict" value="ff6666" />
     <option name="FILESTATUS_modifiedOutside" value="4ff0ff" />
-    <option name="FOLDED_TEXT_BORDER_COLOR" value="b3b3b3" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="0" />
     <option name="GUTTER_BACKGROUND" value="131314" />
     <option name="INDENT_GUIDE" value="666666" />
-    <option name="INFORMATION_HINT" value="450073" />
+    <option name="INFORMATION_HINT" value="99ff" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="cccccc8c" />
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="cccccc8c" />
     <option name="LINE_NUMBERS_COLOR" value="999999" />
@@ -53,6 +53,7 @@
     <option name="SELECTED_INDENT_GUIDE" value="999999" />
     <option name="SELECTED_TEARLINE_COLOR" value="ffffff" />
     <option name="SELECTION_BACKGROUND" value="6280" />
+    <option name="SELECTION_FOREGROUND" value="0" />
     <option name="SEPARATOR_BELOW_COLOR" value="808080" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
     <option name="STRING_CONTENT_INDENT_GUIDE" value="54b33e" />
@@ -104,7 +105,7 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="ERROR_STRIPE_COLOR" value="ffffff" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -218,10 +219,20 @@
         <option name="FOREGROUND" value="ffbf66" />
       </value>
     </option>
+    <option name="CSS.CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+      </value>
+    </option>
     <option name="CSS.COLOR">
       <value>
         <option name="FOREGROUND" value="aaff" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffff00" />
       </value>
     </option>
     <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
@@ -480,7 +491,7 @@
     <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ff41be" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
@@ -492,11 +503,15 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="ed864a" />
+        <option name="FOREGROUND" value="ff" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffff" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="aaff" />
@@ -561,7 +576,14 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="ff" />
+        <option name="FOREGROUND" value="fff109" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="6cbaff" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="bd6b" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
@@ -574,7 +596,18 @@
         <option name="FOREGROUND" value="ff0000" />
       </value>
     </option>
+    <option name="JS.LOCAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="d2af00" />
+      </value>
+    </option>
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="54b33e" />
+      </value>
+    </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JavaScript:INJECTED_LANGUAGE_FRAGMENT" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -756,7 +789,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ebebeb" />
-        <option name="BACKGROUND" value="131314" />
+        <option name="BACKGROUND" value="0" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -792,10 +825,9 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="804a00" />
+        <option name="EFFECT_COLOR" value="fdb200" />
         <option name="ERROR_STRIPE_COLOR" value="ffb300" />
-        <option name="EFFECT_TYPE" value="4" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
