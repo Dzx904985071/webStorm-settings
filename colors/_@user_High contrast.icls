@@ -3,18 +3,18 @@
     <property name="created">2021-06-02T15:04:43</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2021-06-02T15:15:51</property>
+    <property name="modified">2021-06-02T16:00:14</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="9924" />
+    <option name="ADDED_LINES_COLOR" value="fcf800" />
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
     <option name="ActionButton.iconTextForeground" value="ffffff" />
     <option name="BookmarkIcon.background" value="e0861f" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="0" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
-    <option name="DELETED_LINES_COLOR" value="ffa14f" />
+    <option name="DELETED_LINES_COLOR" value="c70000" />
     <option name="DOCUMENTATION_COLOR" value="281a33" />
     <option name="ERROR_HINT" value="800002" />
     <option name="FILESTATUS_ADDED" value="62cc47" />
@@ -73,7 +73,7 @@
     <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e65a" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="0" />
     <option name="ScrollBar.Transparent.thumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Transparent.trackColor" value="e6e6e60" />
+    <option name="ScrollBar.Transparent.trackColor" value="6e6e60" />
     <option name="ScrollBar.background" value="0" />
     <option name="ScrollBar.hoverThumbBorderColor" value="0" />
     <option name="ScrollBar.hoverThumbColor" value="ffffffbe" />
@@ -557,6 +557,21 @@
       <value>
         <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ccff" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
