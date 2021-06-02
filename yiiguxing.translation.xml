@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="694" />
     <histories>
+      <item value="coordinates" />
       <item value="precision" />
       <item value="Blur" />
       <item value="停用" />
@@ -44,7 +45,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
