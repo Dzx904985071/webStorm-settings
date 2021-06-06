@@ -1,0 +1,32 @@
+<keymap version="1" name="Visual Studio复制" parent="Visual Studio">
+  <action id="AddToFavoritesPopup" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+    <keyboard-shortcut first-keystroke="ctrl alt divide" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="c" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="w" />
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="ExpandLiveTemplateCustom">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="pause" />
+  </action>
+  <action id="Graph.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+</keymap>
