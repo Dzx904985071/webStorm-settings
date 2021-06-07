@@ -17,9 +17,6 @@
   <action id="ExpandLiveTemplateCustom">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
-  <action id="Git.Pull">
-    <keyboard-shortcut first-keystroke="pause" />
-  </action>
   <action id="Graph.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
